@@ -14,9 +14,9 @@ Modders, Hackers, Developers
 ## Troubleshooting
 discord.gg/troubleshooting
 
-<br></br>
-<br></br>
-<br></br>
+<br>
+<br>
+<br>
 
 
 ## Welcome to GitHub Pages
