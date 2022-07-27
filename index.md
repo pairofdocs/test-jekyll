@@ -1,3 +1,24 @@
+# Awesome Mod
+D2R Mod for Hardcore
+
+
+## Install
+- step 1
+- step 2
+
+
+## Credits
+Modders, Hackers, Developers
+
+
+## Troubleshooting
+discord.gg/troubleshooting
+
+<br></br>
+<br></br>
+<br></br>
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/pairofdocs/test-jekyll/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
